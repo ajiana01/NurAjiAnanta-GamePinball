@@ -1,0 +1,273 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1709218275543315, "dur":7143, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1709218275550464, "dur":91, "ph":"X", "name": "RemoveStaleOutputs",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1709218275550595, "dur":394, "ph":"X", "name": "BuildQueueInit",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1709218275551158, "dur":51, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/NgodingGame/NurAjiAnanta-GamePinballBuild/GamePinball_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":0, "ts":1709218275551239, "dur":50, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/NgodingGame/NurAjiAnanta-GamePinballBuild/GamePinball_Data/level0" }}
+,{ "pid":12345, "tid":0, "ts":1709218275551668, "dur":50, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/NgodingGame/NurAjiAnanta-GamePinballBuild/GamePinball_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":0, "ts":1709218275552402, "dur":50, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/NgodingGame/NurAjiAnanta-GamePinballBuild/GamePinball_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1709218275554033, "dur":51, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/NgodingGame/NurAjiAnanta-GamePinballBuild/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":0, "ts":1709218275551077, "dur":3313, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1709218275554392, "dur":168080, "ph":"X", "name": "WaitForBuildFinished", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1709218275722473, "dur":356, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1709218275722973, "dur":854, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1709218275551975, "dur":2838, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1709218275554814, "dur":4003, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1709218275558817, "dur":183, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/NgodingGame/NurAjiAnanta-GamePinballBuild/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":1, "ts":1709218275561633, "dur":2362, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/NgodingGame/NurAjiAnanta-GamePinballBuild/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":1, "ts":1709218275564069, "dur":296, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1709218275564469, "dur":795, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/NgodingGame/NurAjiAnanta-GamePinballBuild/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":1, "ts":1709218275565312, "dur":3059, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/NgodingGame/NurAjiAnanta-GamePinballBuild/GamePinball_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":1, "ts":1709218275568430, "dur":2170, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/NgodingGame/NurAjiAnanta-GamePinballBuild/GamePinball_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":1, "ts":1709218275570661, "dur":2405, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/NgodingGame/NurAjiAnanta-GamePinballBuild/GamePinball_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":1, "ts":1709218275573092, "dur":2411, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/NgodingGame/NurAjiAnanta-GamePinballBuild/GamePinball_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1709218275575651, "dur":1483, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/NgodingGame/NurAjiAnanta-GamePinballBuild/GamePinball_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1709218275577180, "dur":1376, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/NgodingGame/NurAjiAnanta-GamePinballBuild/GamePinball_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1709218275578614, "dur":1324, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/NgodingGame/NurAjiAnanta-GamePinballBuild/GamePinball_Data/Managed/UnityEngine.ContentLoadModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1709218275580043, "dur":900, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/NgodingGame/NurAjiAnanta-GamePinballBuild/GamePinball_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":1, "ts":1709218275580960, "dur":1871, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/NgodingGame/NurAjiAnanta-GamePinballBuild/GamePinball_Data/level0" }}
+,{ "pid":12345, "tid":1, "ts":1709218275582841, "dur":139702, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1709218275552002, "dur":2902, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1709218275554905, "dur":3913, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1709218275558838, "dur":192, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.20f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.0\\machine.config" }}
+,{ "pid":12345, "tid":2, "ts":1709218275558819, "dur":212, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/NgodingGame/NurAjiAnanta-GamePinballBuild/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":2, "ts":1709218275561660, "dur":2466, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/NgodingGame/NurAjiAnanta-GamePinballBuild/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":2, "ts":1709218275564186, "dur":97, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1709218275564285, "dur":923, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/NgodingGame/NurAjiAnanta-GamePinballBuild/GamePinball.exe" }}
+,{ "pid":12345, "tid":2, "ts":1709218275565249, "dur":4256, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/NgodingGame/NurAjiAnanta-GamePinballBuild/GamePinball_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":2, "ts":1709218275569566, "dur":2439, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/NgodingGame/NurAjiAnanta-GamePinballBuild/GamePinball_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":2, "ts":1709218275572028, "dur":3283, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/NgodingGame/NurAjiAnanta-GamePinballBuild/GamePinball_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1709218275575380, "dur":1504, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/NgodingGame/NurAjiAnanta-GamePinballBuild/GamePinball_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1709218275576937, "dur":1326, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/NgodingGame/NurAjiAnanta-GamePinballBuild/GamePinball_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1709218275578324, "dur":1210, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/NgodingGame/NurAjiAnanta-GamePinballBuild/GamePinball_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1709218275579581, "dur":779, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/NgodingGame/NurAjiAnanta-GamePinballBuild/GamePinball_Data/sharedassets2.assets" }}
+,{ "pid":12345, "tid":2, "ts":1709218275580378, "dur":1440, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/NgodingGame/NurAjiAnanta-GamePinballBuild/GamePinball_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":2, "ts":1709218275581833, "dur":140633, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1709218275551831, "dur":2780, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1709218275554614, "dur":543, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1709218275555158, "dur":3685, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1709218275558844, "dur":351, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/NgodingGame/NurAjiAnanta-GamePinballBuild/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":3, "ts":1709218275562204, "dur":1906, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/NgodingGame/NurAjiAnanta-GamePinballBuild/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":3, "ts":1709218275564211, "dur":145, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1709218275564695, "dur":4154, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/NgodingGame/NurAjiAnanta-GamePinballBuild/GamePinball_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":3, "ts":1709218275568917, "dur":2892, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/NgodingGame/NurAjiAnanta-GamePinballBuild/GamePinball_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":3, "ts":1709218275571879, "dur":2933, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/NgodingGame/NurAjiAnanta-GamePinballBuild/GamePinball_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1709218275574865, "dur":2042, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/NgodingGame/NurAjiAnanta-GamePinballBuild/GamePinball_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1709218275576958, "dur":1495, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/NgodingGame/NurAjiAnanta-GamePinballBuild/GamePinball_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1709218275578500, "dur":1972, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/NgodingGame/NurAjiAnanta-GamePinballBuild/GamePinball_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1709218275580556, "dur":648, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/NgodingGame/NurAjiAnanta-GamePinballBuild/GamePinball_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":3, "ts":1709218275581361, "dur":1749, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/NgodingGame/NurAjiAnanta-GamePinballBuild/GamePinball_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":3, "ts":1709218275583120, "dur":139360, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1709218275551821, "dur":2637, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1709218275554462, "dur":877, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1709218275555340, "dur":3368, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1709218275558712, "dur":89, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/NgodingGame/NurAjiAnanta-GamePinballBuild/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":4, "ts":1709218275564068, "dur":207, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1709218275561657, "dur":2626, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/NgodingGame/NurAjiAnanta-GamePinballBuild/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":4, "ts":1709218275564324, "dur":55, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1709218275564703, "dur":2454, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/NgodingGame/NurAjiAnanta-GamePinballBuild/GamePinball_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":4, "ts":1709218275567246, "dur":4317, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/NgodingGame/NurAjiAnanta-GamePinballBuild/GamePinball_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":4, "ts":1709218275574276, "dur":62, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1709218275571631, "dur":2815, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/NgodingGame/NurAjiAnanta-GamePinballBuild/GamePinball_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1709218275574612, "dur":1966, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/NgodingGame/NurAjiAnanta-GamePinballBuild/GamePinball_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1709218275576627, "dur":1630, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/NgodingGame/NurAjiAnanta-GamePinballBuild/GamePinball_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1709218275578319, "dur":984, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/NgodingGame/NurAjiAnanta-GamePinballBuild/GamePinball_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1709218275579351, "dur":1336, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/NgodingGame/NurAjiAnanta-GamePinballBuild/GamePinball_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1709218275580836, "dur":1979, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/NgodingGame/NurAjiAnanta-GamePinballBuild/GamePinball_Data/level1" }}
+,{ "pid":12345, "tid":4, "ts":1709218275582823, "dur":139670, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1709218275551945, "dur":2844, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1709218275554790, "dur":3762, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1709218275558580, "dur":126, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.20f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\mconfig\\config.xml" }}
+,{ "pid":12345, "tid":5, "ts":1709218275558553, "dur":155, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/NgodingGame/NurAjiAnanta-GamePinballBuild/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":5, "ts":1709218275558853, "dur":295, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1709218275561643, "dur":2215, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/NgodingGame/NurAjiAnanta-GamePinballBuild/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":5, "ts":1709218275564294, "dur":906, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/NgodingGame/NurAjiAnanta-GamePinballBuild/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":5, "ts":1709218275565264, "dur":3960, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/NgodingGame/NurAjiAnanta-GamePinballBuild/GamePinball_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":5, "ts":1709218275569276, "dur":2438, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/NgodingGame/NurAjiAnanta-GamePinballBuild/GamePinball_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":5, "ts":1709218275571735, "dur":2308, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/NgodingGame/NurAjiAnanta-GamePinballBuild/GamePinball_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1709218275574110, "dur":2183, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/NgodingGame/NurAjiAnanta-GamePinballBuild/GamePinball_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1709218275576356, "dur":1438, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/NgodingGame/NurAjiAnanta-GamePinballBuild/GamePinball_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1709218275577838, "dur":1189, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/NgodingGame/NurAjiAnanta-GamePinballBuild/GamePinball_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1709218275579076, "dur":1570, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/NgodingGame/NurAjiAnanta-GamePinballBuild/GamePinball_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1709218275582374, "dur":131, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1709218275580700, "dur":1869, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/NgodingGame/NurAjiAnanta-GamePinballBuild/GamePinball_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":5, "ts":1709218275582584, "dur":139932, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1709218275551712, "dur":2720, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1709218275554437, "dur":906, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1709218275555343, "dur":3490, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1709218275558834, "dur":238, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/NgodingGame/NurAjiAnanta-GamePinballBuild/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":6, "ts":1709218275561643, "dur":2546, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/NgodingGame/NurAjiAnanta-GamePinballBuild/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":6, "ts":1709218275564767, "dur":3031, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/NgodingGame/NurAjiAnanta-GamePinballBuild/GamePinball_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":6, "ts":1709218275567862, "dur":2036, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/NgodingGame/NurAjiAnanta-GamePinballBuild/GamePinball_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":6, "ts":1709218275569960, "dur":2290, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/NgodingGame/NurAjiAnanta-GamePinballBuild/GamePinball_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":6, "ts":1709218275572300, "dur":3076, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/NgodingGame/NurAjiAnanta-GamePinballBuild/GamePinball_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1709218275575484, "dur":1528, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/NgodingGame/NurAjiAnanta-GamePinballBuild/GamePinball_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1709218275577065, "dur":1382, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/NgodingGame/NurAjiAnanta-GamePinballBuild/GamePinball_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1709218275578495, "dur":1113, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/NgodingGame/NurAjiAnanta-GamePinballBuild/GamePinball_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1709218275579650, "dur":2078, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/NgodingGame/NurAjiAnanta-GamePinballBuild/GamePinball_Data/sharedassets1.resource" }}
+,{ "pid":12345, "tid":6, "ts":1709218275581751, "dur":1352, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/NgodingGame/NurAjiAnanta-GamePinballBuild/GamePinball_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":6, "ts":1709218275583113, "dur":139371, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1709218275551628, "dur":2776, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1709218275554409, "dur":4130, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1709218275559206, "dur":495, "ph":"X", "name": "WriteText",  "args": { "detail":"Library/Bee/artifacts/csharpactions/boot.config_tyr4.info" }}
+,{ "pid":12345, "tid":7, "ts":1709218275559708, "dur":75, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\boot.config" }}
+,{ "pid":12345, "tid":7, "ts":1709218275560175, "dur":100, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\NgodingGame\\GamePinball\\Library\\Bee\\PlayerScriptAssemblies\\Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":7, "ts":1709218275560276, "dur":212, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\NgodingGame\\GamePinball\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":7, "ts":1709218275560489, "dur":251, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\NgodingGame\\GamePinball\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":7, "ts":1709218275560741, "dur":492, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\NgodingGame\\GamePinball\\Library\\Bee\\PlayerScriptAssemblies\\Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":7, "ts":1709218275561234, "dur":618, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\NgodingGame\\GamePinball\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":7, "ts":1709218275561853, "dur":92, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\NgodingGame\\GamePinball\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":7, "ts":1709218275561946, "dur":360, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\NgodingGame\\GamePinball\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":7, "ts":1709218275562379, "dur":61, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\Playera4edd786-inputdata.json" }}
+,{ "pid":12345, "tid":7, "ts":1709218275559705, "dur":2836, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"AddBootConfigGUID Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":7, "ts":1709218275562824, "dur":56, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1709218275563081, "dur":155384, "ph":"X", "name": "AddBootConfigGUID",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":7, "ts":1709218275721958, "dur":52, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\boot.config" }}
+,{ "pid":12345, "tid":7, "ts":1709218275721957, "dur":54, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/NgodingGame/NurAjiAnanta-GamePinballBuild/GamePinball_Data/boot.config" }}
+,{ "pid":12345, "tid":7, "ts":1709218275722029, "dur":387, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/NgodingGame/NurAjiAnanta-GamePinballBuild/GamePinball_Data/boot.config" }}
+,{ "pid":12345, "tid":8, "ts":1709218275551658, "dur":2756, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1709218275554417, "dur":861, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1709218275555279, "dur":3433, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1709218275558735, "dur":99, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.20f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.5\\machine.config" }}
+,{ "pid":12345, "tid":8, "ts":1709218275558716, "dur":119, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/NgodingGame/NurAjiAnanta-GamePinballBuild/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":8, "ts":1709218275558841, "dur":147, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1709218275561683, "dur":2405, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/NgodingGame/NurAjiAnanta-GamePinballBuild/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":8, "ts":1709218275564246, "dur":864, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/NgodingGame/NurAjiAnanta-GamePinballBuild/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":8, "ts":1709218275565446, "dur":3411, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/NgodingGame/NurAjiAnanta-GamePinballBuild/GamePinball_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":8, "ts":1709218275571063, "dur":62, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1709218275568922, "dur":2212, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/NgodingGame/NurAjiAnanta-GamePinballBuild/GamePinball_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":8, "ts":1709218275571212, "dur":253, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1709218275571468, "dur":2639, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/NgodingGame/NurAjiAnanta-GamePinballBuild/GamePinball_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1709218275574164, "dur":2903, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/NgodingGame/NurAjiAnanta-GamePinballBuild/GamePinball_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1709218275577118, "dur":1262, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/NgodingGame/NurAjiAnanta-GamePinballBuild/GamePinball_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1709218275578450, "dur":1078, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/NgodingGame/NurAjiAnanta-GamePinballBuild/GamePinball_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1709218275579633, "dur":16054, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/NgodingGame/NurAjiAnanta-GamePinballBuild/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":8, "ts":1709218275595753, "dur":126715, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1709218275551701, "dur":2721, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1709218275554426, "dur":789, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1709218275555215, "dur":3519, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1709218275558745, "dur":59, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.20f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.0\\web.config" }}
+,{ "pid":12345, "tid":9, "ts":1709218275558735, "dur":70, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/NgodingGame/NurAjiAnanta-GamePinballBuild/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":9, "ts":1709218275561770, "dur":2281, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/NgodingGame/NurAjiAnanta-GamePinballBuild/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":9, "ts":1709218275565198, "dur":59, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1709218275564558, "dur":712, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/NgodingGame/NurAjiAnanta-GamePinballBuild/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":9, "ts":1709218275565331, "dur":3975, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/NgodingGame/NurAjiAnanta-GamePinballBuild/GamePinball_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":9, "ts":1709218275569349, "dur":2182, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/NgodingGame/NurAjiAnanta-GamePinballBuild/GamePinball_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":9, "ts":1709218275571560, "dur":1854, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/NgodingGame/NurAjiAnanta-GamePinballBuild/GamePinball_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1709218275573517, "dur":2537, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/NgodingGame/NurAjiAnanta-GamePinballBuild/GamePinball_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1709218275576108, "dur":1543, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/NgodingGame/NurAjiAnanta-GamePinballBuild/GamePinball_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1709218275577712, "dur":1119, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/NgodingGame/NurAjiAnanta-GamePinballBuild/GamePinball_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1709218275578873, "dur":1331, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/NgodingGame/NurAjiAnanta-GamePinballBuild/GamePinball_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1709218275580277, "dur":1671, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/NgodingGame/NurAjiAnanta-GamePinballBuild/GamePinball_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":9, "ts":1709218275581959, "dur":140504, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1709218275551740, "dur":2701, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1709218275554446, "dur":735, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1709218275555181, "dur":3544, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1709218275558725, "dur":81, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/NgodingGame/NurAjiAnanta-GamePinballBuild/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":10, "ts":1709218275561926, "dur":2306, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/NgodingGame/NurAjiAnanta-GamePinballBuild/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":10, "ts":1709218275564712, "dur":1976, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/NgodingGame/NurAjiAnanta-GamePinballBuild/GamePinball_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":10, "ts":1709218275566770, "dur":3135, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/NgodingGame/NurAjiAnanta-GamePinballBuild/GamePinball_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":10, "ts":1709218275569967, "dur":2052, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/NgodingGame/NurAjiAnanta-GamePinballBuild/GamePinball_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":10, "ts":1709218275572040, "dur":2030, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/NgodingGame/NurAjiAnanta-GamePinballBuild/GamePinball_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1709218275574487, "dur":2098, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/NgodingGame/NurAjiAnanta-GamePinballBuild/GamePinball_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1709218275576651, "dur":1637, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/NgodingGame/NurAjiAnanta-GamePinballBuild/GamePinball_Data/Managed/UnityEngine.PropertiesModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1709218275578358, "dur":948, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/NgodingGame/NurAjiAnanta-GamePinballBuild/GamePinball_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1709218275579378, "dur":1330, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/NgodingGame/NurAjiAnanta-GamePinballBuild/GamePinball_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1709218275582417, "dur":98, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1709218275580833, "dur":1689, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/NgodingGame/NurAjiAnanta-GamePinballBuild/GamePinball_Data/level2" }}
+,{ "pid":12345, "tid":10, "ts":1709218275582536, "dur":139976, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1709218275551769, "dur":2680, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1709218275554453, "dur":938, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1709218275555392, "dur":3307, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1709218275558719, "dur":110, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.20f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.5\\web.config" }}
+,{ "pid":12345, "tid":11, "ts":1709218275558707, "dur":124, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/NgodingGame/NurAjiAnanta-GamePinballBuild/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":11, "ts":1709218275558837, "dur":149, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1709218275561669, "dur":2455, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/NgodingGame/NurAjiAnanta-GamePinballBuild/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":11, "ts":1709218275564194, "dur":95, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1709218275564300, "dur":9706, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/NgodingGame/NurAjiAnanta-GamePinballBuild/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":11, "ts":1709218275574064, "dur":2362, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/NgodingGame/NurAjiAnanta-GamePinballBuild/GamePinball_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1709218275576476, "dur":1207, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/NgodingGame/NurAjiAnanta-GamePinballBuild/GamePinball_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1709218275577739, "dur":1660, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/NgodingGame/NurAjiAnanta-GamePinballBuild/GamePinball_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1709218275579444, "dur":1288, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/NgodingGame/NurAjiAnanta-GamePinballBuild/GamePinball_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1709218275582379, "dur":117, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1709218275580809, "dur":1696, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/NgodingGame/NurAjiAnanta-GamePinballBuild/GamePinball_Data/level2.resS" }}
+,{ "pid":12345, "tid":11, "ts":1709218275582519, "dur":140012, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1709218275551910, "dur":2872, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1709218275554783, "dur":3766, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1709218275558582, "dur":108, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.20f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":12, "ts":1709218275558554, "dur":138, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/NgodingGame/NurAjiAnanta-GamePinballBuild/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":12, "ts":1709218275558846, "dur":291, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1709218275564806, "dur":50, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1709218275559148, "dur":5717, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/NgodingGame/NurAjiAnanta-GamePinballBuild/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":12, "ts":1709218275565168, "dur":3382, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/NgodingGame/NurAjiAnanta-GamePinballBuild/GamePinball_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":12, "ts":1709218275570982, "dur":134, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1709218275568612, "dur":2515, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/NgodingGame/NurAjiAnanta-GamePinballBuild/GamePinball_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":12, "ts":1709218275571205, "dur":253, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1709218275571463, "dur":2310, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/NgodingGame/NurAjiAnanta-GamePinballBuild/GamePinball_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1709218275573829, "dur":2272, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/NgodingGame/NurAjiAnanta-GamePinballBuild/GamePinball_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1709218275576157, "dur":1520, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/NgodingGame/NurAjiAnanta-GamePinballBuild/GamePinball_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1709218275577729, "dur":1112, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/NgodingGame/NurAjiAnanta-GamePinballBuild/GamePinball_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1709218275578927, "dur":1778, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/NgodingGame/NurAjiAnanta-GamePinballBuild/GamePinball_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1709218275580793, "dur":2008, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/NgodingGame/NurAjiAnanta-GamePinballBuild/GamePinball_Data/resources.assets" }}
+,{ "pid":12345, "tid":12, "ts":1709218275582832, "dur":139655, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1709218275551847, "dur":2865, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1709218275554715, "dur":141, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1709218275554856, "dur":3690, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1709218275564056, "dur":99, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1709218275559757, "dur":4405, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/NgodingGame/NurAjiAnanta-GamePinballBuild/GamePinball_Data/app.info" }}
+,{ "pid":12345, "tid":13, "ts":1709218275564559, "dur":5857, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/NgodingGame/NurAjiAnanta-GamePinballBuild/GamePinball_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":13, "ts":1709218275570716, "dur":2495, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/NgodingGame/NurAjiAnanta-GamePinballBuild/GamePinball_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1709218275573301, "dur":2410, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/NgodingGame/NurAjiAnanta-GamePinballBuild/GamePinball_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1709218275575777, "dur":1665, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/NgodingGame/NurAjiAnanta-GamePinballBuild/GamePinball_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1709218275577523, "dur":1205, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/NgodingGame/NurAjiAnanta-GamePinballBuild/GamePinball_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1709218275578788, "dur":1312, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/NgodingGame/NurAjiAnanta-GamePinballBuild/GamePinball_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1709218275580190, "dur":2764, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/NgodingGame/NurAjiAnanta-GamePinballBuild/GamePinball_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":13, "ts":1709218275582965, "dur":139538, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1709218275551871, "dur":2894, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1709218275554765, "dur":3792, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1709218275558558, "dur":678, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/NgodingGame/NurAjiAnanta-GamePinballBuild/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":14, "ts":1709218275560904, "dur":3139, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/NgodingGame/NurAjiAnanta-GamePinballBuild/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":14, "ts":1709218275564342, "dur":1019, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/NgodingGame/NurAjiAnanta-GamePinballBuild/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":14, "ts":1709218275565403, "dur":3541, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/NgodingGame/NurAjiAnanta-GamePinballBuild/GamePinball_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":14, "ts":1709218275568992, "dur":2737, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/NgodingGame/NurAjiAnanta-GamePinballBuild/GamePinball_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":14, "ts":1709218275571756, "dur":3361, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/NgodingGame/NurAjiAnanta-GamePinballBuild/GamePinball_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1709218275575211, "dur":1690, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/NgodingGame/NurAjiAnanta-GamePinballBuild/GamePinball_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1709218275576955, "dur":1291, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/NgodingGame/NurAjiAnanta-GamePinballBuild/GamePinball_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1709218275578364, "dur":1001, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/NgodingGame/NurAjiAnanta-GamePinballBuild/GamePinball_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1709218275579415, "dur":1436, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/NgodingGame/NurAjiAnanta-GamePinballBuild/GamePinball_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1709218275580901, "dur":1876, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/NgodingGame/NurAjiAnanta-GamePinballBuild/GamePinball_Data/level0.resS" }}
+,{ "pid":12345, "tid":14, "ts":1709218275582790, "dur":139719, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1709218275551900, "dur":2870, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1709218275554771, "dur":3783, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1709218275558556, "dur":128, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/NgodingGame/NurAjiAnanta-GamePinballBuild/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":15, "ts":1709218275561045, "dur":2870, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/NgodingGame/NurAjiAnanta-GamePinballBuild/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":15, "ts":1709218275564309, "dur":1024, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/NgodingGame/NurAjiAnanta-GamePinballBuild/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":15, "ts":1709218275569861, "dur":66, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1709218275565396, "dur":4554, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/NgodingGame/NurAjiAnanta-GamePinballBuild/GamePinball_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":15, "ts":1709218275573182, "dur":62, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1709218275570012, "dur":3286, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/NgodingGame/NurAjiAnanta-GamePinballBuild/GamePinball_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":15, "ts":1709218275573327, "dur":2721, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/NgodingGame/NurAjiAnanta-GamePinballBuild/GamePinball_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1709218275576111, "dur":1514, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/NgodingGame/NurAjiAnanta-GamePinballBuild/GamePinball_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1709218275577687, "dur":1345, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/NgodingGame/NurAjiAnanta-GamePinballBuild/GamePinball_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1709218275579078, "dur":1398, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/NgodingGame/NurAjiAnanta-GamePinballBuild/GamePinball_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1709218275582185, "dur":76, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1709218275580541, "dur":1743, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/NgodingGame/NurAjiAnanta-GamePinballBuild/GamePinball_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":15, "ts":1709218275582335, "dur":140185, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1709218275551985, "dur":2876, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1709218275554862, "dur":3860, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1709218275558733, "dur":263, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/NgodingGame/NurAjiAnanta-GamePinballBuild/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":16, "ts":1709218275564072, "dur":175, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1709218275561645, "dur":2623, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/NgodingGame/NurAjiAnanta-GamePinballBuild/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":16, "ts":1709218275564316, "dur":56, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1709218275564725, "dur":4082, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/NgodingGame/NurAjiAnanta-GamePinballBuild/GamePinball_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":16, "ts":1709218275568854, "dur":1771, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/NgodingGame/NurAjiAnanta-GamePinballBuild/GamePinball_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":16, "ts":1709218275570685, "dur":2536, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/NgodingGame/NurAjiAnanta-GamePinballBuild/GamePinball_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":16, "ts":1709218275573294, "dur":2293, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/NgodingGame/NurAjiAnanta-GamePinballBuild/GamePinball_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1709218275575665, "dur":1765, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/NgodingGame/NurAjiAnanta-GamePinballBuild/GamePinball_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1709218275577502, "dur":1139, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/NgodingGame/NurAjiAnanta-GamePinballBuild/GamePinball_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1709218275578704, "dur":1242, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/NgodingGame/NurAjiAnanta-GamePinballBuild/GamePinball_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1709218275580005, "dur":1013, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/NgodingGame/NurAjiAnanta-GamePinballBuild/GamePinball_Data/sharedassets1.assets.resS" }}
+,{ "pid":12345, "tid":16, "ts":1709218275581037, "dur":3465, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/NgodingGame/NurAjiAnanta-GamePinballBuild/GamePinball_Data/globalgamemanagers.assets.resS" }}
+,{ "pid":12345, "tid":16, "ts":1709218275584514, "dur":137959, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1709218275725319, "dur":611, "ph":"X", "name": "ProfilerWriteOutput" }
+,
